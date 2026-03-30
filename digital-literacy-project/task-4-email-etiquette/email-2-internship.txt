@@ -1,0 +1,20 @@
+Subject: Summer Internship Application - Software Engineering Intern - Prince
+
+Dear Sir,
+
+I hope this email finds you well.
+
+My name is Prince, and I am a second-year B.Tech Computer Science and Engineering student at VIT Bhopal. I am writing to express my strong interest in the Summer Software Engineering Internship position at INTEL. 
+
+Through my academic coursework and personal projects, I have developed a solid foundation in Java, SQL, and Machine Learning concepts. Recently, I have been working on building a real-time dashboard and training models for medical image classification using Google Colab. I am eager to bring my problem-solving skills and technical background to the innovative projects your team is developing.
+
+I have attached my resume for your review. My GitHub and LinkedIn profiles can be found here: https://github.com/princerajput2317
+                                                                                              https://www.linkedin.com/in/prince-rajput-b589b8328/
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my skills align with your team's goals.
+
+Best regards,
+
+Prince
+9111106890
+prince.24bce10966@vitbhopal.ac.in
